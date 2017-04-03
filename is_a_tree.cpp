@@ -1,4 +1,6 @@
-//Problem statment: http://poj.org/problem?id=1308
+
+/*  Copyright 2017 Carlos Roberto Martinez Ojeda <carlos.1424@@live.com.mx>
+    Problem_statement: http://poj.org/problem?id=1308 */
 
 #include <iostream>
 #include <stdio.h>
